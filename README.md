@@ -32,6 +32,14 @@ INSERT PROJECT DESCRIPTION
 <img width="1024" height="245" alt="DHCP assignment" src="https://github.com/user-attachments/assets/c65e9090-5e0d-495d-8866-4bd8a30c3f93" />
 <img width="980" height="512" alt="image" src="https://github.com/user-attachments/assets/d07f45ab-9c9e-4b06-b47a-792468747890" />
 
+<h3>Active Directory Groups and Shared Folder Access</h3>
+
+<img width="1028" height="411" alt="image" src="https://github.com/user-attachments/assets/89d1795c-192a-43d6-83c5-c8d6be9bda07" />
+<img width="939" height="456" alt="image" src="https://github.com/user-attachments/assets/03bd9c90-d042-425e-809a-eb84cdf7edd9" />
+<img width="1020" height="681" alt="image" src="https://github.com/user-attachments/assets/329aeddc-ad85-47c5-b2f1-2d7589b87f86" />
+<img width="1025" height="614" alt="image" src="https://github.com/user-attachments/assets/30ac7121-affd-4366-b3b1-82ed22d4d5ca" />
+
+
 
 <p align="center">
 Step 1: <br/>
