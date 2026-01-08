@@ -26,6 +26,10 @@ INSERT PROJECT DESCRIPTION
 <img width="297" height="332" alt="image" src="https://github.com/user-attachments/assets/fdcff413-9a11-4dbc-a67b-0f5fab59f79e" />
 <img width="296" height="313" alt="image" src="https://github.com/user-attachments/assets/da62613b-5a48-4a80-bd2d-b8f8d59d69ee" />
 
+<h3>Server Roles</h3>
+<img width="1509" height="569" alt="image" src="https://github.com/user-attachments/assets/33edb583-7e32-4cb7-af0d-abd4fef59003" />
+
+
 <h3>DHCP</h3>
 
 <img width="932" height="325" alt="image" src="https://github.com/user-attachments/assets/a0606815-4e36-45e6-b48f-020afa6a89cb" />
@@ -38,6 +42,9 @@ INSERT PROJECT DESCRIPTION
 <img width="939" height="456" alt="image" src="https://github.com/user-attachments/assets/03bd9c90-d042-425e-809a-eb84cdf7edd9" />
 <img width="1020" height="681" alt="image" src="https://github.com/user-attachments/assets/329aeddc-ad85-47c5-b2f1-2d7589b87f86" />
 <img width="1025" height="614" alt="image" src="https://github.com/user-attachments/assets/30ac7121-affd-4366-b3b1-82ed22d4d5ca" />
+<img width="994" height="592" alt="image" src="https://github.com/user-attachments/assets/a035ba31-3df8-4951-aff4-3b423a9a145a" />
+<img width="1025" height="609" alt="image" src="https://github.com/user-attachments/assets/c4f5467d-f288-4627-a887-f61077ab4d83" />
+
 
 
 
