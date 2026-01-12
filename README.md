@@ -38,6 +38,7 @@ This VMware-based lab environment showcases the deployment of a corporate Window
 <p align="center">
   <img width="932" height="325" alt="image" src="https://github.com/user-attachments/assets/a0606815-4e36-45e6-b48f-020afa6a89cb" /><br />
 </p>
+<h4>DC01 uses DHCP to configure IP settings for client computers (COMP01 settings shown):</h4>
 <p align="center">
   <img width="1024" height="245" alt="DHCP assignment" src="https://github.com/user-attachments/assets/c65e9090-5e0d-495d-8866-4bd8a30c3f93" /><br />
 </p>
@@ -50,24 +51,30 @@ This VMware-based lab environment showcases the deployment of a corporate Window
 <p align="center">
   <img width="1005" height="499" alt="image" src="https://github.com/user-attachments/assets/154464f6-f1bb-43d6-b403-f39d97ebd31f" />
 </p>
+<h4>Demonstration of "Restrict Settings Visibility" GPO on COMP01; only allowed settings are shown:</h4>
 <p align="center">
   <img width="524" height="352" alt="image" src="https://github.com/user-attachments/assets/0ceb4477-6b34-496f-9c69-81af42f3b2c3" />
 </p>
 
 <h3>Active Directory Groups and Shared Folder Access</h3>
 
+<h4>Groups are organized into departments with their own shared folders:</h4>
 <p align="center">
   <img width="1028" height="411" alt="image" src="https://github.com/user-attachments/assets/89d1795c-192a-43d6-83c5-c8d6be9bda07" />
 </p>
+<h4>Department Managers have all of the access of their department's staff:</h4>
 <p align="center">
   <img width="939" height="456" alt="image" src="https://github.com/user-attachments/assets/03bd9c90-d042-425e-809a-eb84cdf7edd9" />
 </p>
+<h4>Only IT has Full Control over shared folders; other staff are assigned Modify access:</h4>
 <p align="center">
   <img width="1020" height="681" alt="image" src="https://github.com/user-attachments/assets/329aeddc-ad85-47c5-b2f1-2d7589b87f86" />
 </p>
+<h4>Perspective of Sophie Rivers, an HR employee; only the HR Staff folder is visible:</h4>
 <p align="center">
   <img width="1025" height="614" alt="image" src="https://github.com/user-attachments/assets/30ac7121-affd-4366-b3b1-82ed22d4d5ca" />
 </p>
+<h4>Because Sophie is so good at her job, she got promoted to HR Manager and can now see the HR Management folder:</h4>
 <p align="center">
 <img width="994" height="592" alt="image" src="https://github.com/user-attachments/assets/a035ba31-3df8-4951-aff4-3b423a9a145a" />
 </p>
