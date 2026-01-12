@@ -7,7 +7,7 @@ This VMware-based lab environment showcases the deployment of a corporate Window
 
 <h2>Network Diagram</h2>
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7000a943-ecc4-42e6-990f-012c096d8a4d" />
+<img width="1536" height="1024" alt="network diagram" src="https://github.com/user-attachments/assets/211c7528-bdff-40f7-abf8-ca1f06bae63e" />
 
 <h2>Environments Used </h2>
 
