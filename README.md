@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-This VMware-based lab environment showcases the deployment of a corporate Windows Domain. Key features include Internet access via Routing and Remote Access (RRAS), system hardening using Group Policy Objects (GPOs), and secure shared folder access.
+This VMware-based lab environment showcases the deployment of a corporate Windows Domain. Key features include DNS/DHCP, system hardening using Group Policy Objects (GPOs), and an implementation of Role-Based Access Control (RBAC) for shared folder access.
 <br />
 
 <h2>Network Diagram</h2>
